@@ -15,20 +15,24 @@ on:
 
 jobs:
   update-resume-gist:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Replace resume.json with specified file
-        run:
-          if [ -f "${{ github.event.inputs.resume_file }}" ]; then
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      
+    - name: Replace resume.json with specified file
+      run: |
+        if [ -f "${{ github.event.inputs.resume_file }}" ]; then
           cp "${{ github.event.inputs.resume_file }}" resume.json
           echo "Replaced resume.json with content from ${{ github.event.inputs.resume_file }}"
+        else
+          echo "Error: File ${{ github.event.inputs.resume_file }} not found"
+          exit 1
+        fi
 
-      - name: Update Resume Gist
-        uses: exuanbo/actions-deploy-gist@v1
-        with:
-          token: ${{ secrets.TOKEN }}
-          gist_id: 6e98fc8f87411da2649409d89a54473b
-          file_path: resume.json
+    - name: Update Resume Gist
+      uses: exuanbo/actions-deploy-gist@v1
+      with:
+        token: ${{ secrets.TOKEN }}
+        gist_id: 6e98fc8f87411da2649409d89a54473b
+        file_path: resume.json
