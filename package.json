@@ -1,5 +1,5 @@
 {
-  "name": "thomasdavis",
+  "name": "vl4duu",
   "version": "1.0.0",
   "description": "This is the resume of Thomas Davis. God of web development.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasdavis/resume.git"
+    "url": "git+https://github.com/vl4duu/resume.git"
   },
   "keywords": [
     "resume"
@@ -16,7 +16,7 @@
   "author": "Thomas Davis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thomasdavis/resume/issues"
+    "url": "https://github.com/vl4duu/resume/issues"
   },
-  "homepage": "https://github.com/thomasdavis/resume#readme"
+  "homepage": "https://github.com/vl4duu/resume#readme"
 }

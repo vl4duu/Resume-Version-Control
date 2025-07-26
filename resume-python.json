@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Vlad Mutilica",
+    "label": "Software Engineer",
+    "image": "https://uk.linkedin.com/in/vlad-mutilica",
+    "summary": "Hi, I'm Vlad. I'm a software developer specialized in Python, Java, JavaScript and TypeScript. I am product focused and customer-centric. My interests lie in ML/LLM and Optimization. I feel at home working on backend projects. In my spare time I like to explore the ethical side of technology.",
+    "website": "https://vlad-mutilica.space",
+    "email": "vlad.mutilica@gmail.com",
+    "location": {
+      "city": "Leeds",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "username": "Vlad Mutilica",
+        "url": "https://www.linkedin.com/in/vlad-mutilica/",
+        "network": "linkedIn"
+      },
+      {
+        "url": "https://github.com/",
+        "username": "",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2022-05-01",
+      "startDate": "2019-09-01",
+      "area": "Software Engineering",
+      "studyType": "Bsc",
+      "institution": "Swansea University, \nGPA: Upper Second"
+    },
+    {
+      "endDate": "2019-05-01",
+      "startDate": "2015-08-01",
+      "area": "IT and Mathematics",
+      "studyType": "Secondary School",
+      "institution": "\"Colegiul Dobrogean Spiru Haret\""
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / CSS",
+        "Javascript",
+        "TypeScript",
+        "React",
+        "Vue",
+        "Three.js",
+        "Jest"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Python",
+        "numpy / tensorflow/ pytorch / scikit",
+        "PHP / Laravel",
+        "Groovy",
+        "npm",
+        "Bash",
+        "Docker"
+      ],
+      "name": "Backend"
+    }
+  ],
+  "awards": [
+    {
+      "title": "First round finalist",
+      "awarder": "Google Hashcode",
+      "date": "2019-11-01"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Financial Technology firm specializing in tailored ERP software solutions for platforms including Google, IBM and KPMG. My role in the Software Engineering department, involved developing testing and maintaining the SCPQ estimation product, with a particular focus on implementing the innovative Guided Scoping feature. This functionality offers an intuitive interface that translates natural language into SOQL queries and Salesforce flow-actions, significantly improving user efficiency in building and deploying optimized projects. Moreover my role entailed a variety of infrastructure related responsibilities which introduced me to a myriad of languages including but not only python, groovy and ruby. During my time at Certinia I acquired a solid understanding of the agile and fintech background while becoming well versed in Salesforce development (Query Bulkification, CRUD/FLS Security and Unit/Integration Testing).",
+      "website": "https://certinia.com/uk/",
+      "name": "Certinia ( formerly FinancialForce )",
+      "location": "Harrogate - UK",
+      "position": "Software Engineer",
+      "startDate": "2022-07-01",
+      "pinned": true,
+      "highlights": [
+        "Java",
+        "SOQL",
+        "JavaScript / TypeScript / Jest",
+        "Groovy / Ruby ",
+        "Python",
+        "HTML / CSS",
+        "Git",
+        "Markup",
+        "Agile / Scrum"
+      ]
+    },
+    {
+      "summary": "As part of my role as a Junior AEM developer I worked in a team responsible for implementing client websites using Adobe Experience Manager. The stack I worked on was Java based using Spring for dependency management. This placement exposed me to a real life software development environment where I learned valuable skills related to programming and agile methodologies.",
+      "website": "https://www.ibm.com/planetwide/ro/",
+      "name": "IBM Summer Placement",
+      "location": "Bucharest - Romania",
+      "position": "AEM Developer",
+      "startDate": "2021-06-01",
+      "endDate": "2021-09-01",
+      "highlights": [
+        "Java",
+        "HTML / CSS",
+        "JavaScript / JSP",
+        "Git"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music / DJ-ing"
+    },
+    {
+      "name": "Open Source"
+    }
+  ]
+}
