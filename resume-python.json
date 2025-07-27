@@ -6,7 +6,7 @@
     "name": "Vlad Mutilica",
     "label": "Software Engineer",
     "image": "https://uk.linkedin.com/in/vlad-mutilica",
-    "summary": "Hi, I'm Vlad. I'm a software developer specialized in Python, Java, JavaScript and TypeScript. I am product focused and customer-centric. My interests lie in ML/LLM and Optimization. I feel at home working on backend projects. In my spare time I like to 3D model and DJ.",
+    "summary": "I'm a software developer specialized in Python, Java, JavaScript and TypeScript. I am product focused and customer-centric. My interests lie in ML/LLM and Optimization. I feel at home working on backend projects. In my spare time I like to 3D model and DJ.",
     "website": "https://vlad-mutilica.space",
     "email": "vlad.mutilica@gmail.com",
     "location": {
@@ -78,7 +78,7 @@
   ],
   "work": [
     {
-      "summary": "Financial Technology firm specializing in tailored ERP software solutions for platforms including Google, IBM and KPMG. My role in the Software Engineering department, involved developing testing and maintaining the SCPQ estimation product, with a particular focus on implementing the innovative Guided Scoping feature. This functionality offers an intuitive interface that translates natural language into SOQL queries and Salesforce flow-actions, significantly improving user efficiency in building and deploying optimized projects. Moreover my role entailed a variety of infrastructure related responsibilities which introduced me to a myriad of languages including but not only python, groovy and ruby. During my time at Certinia I acquired a solid understanding of the agile and fintech background while becoming well versed in Salesforce development (Query Bulkification, CRUD/FLS Security and Unit/Integration Testing).",
+      "summary": "Financial Technology firm specializing in tailored ERP software solutions for enterprise platforms including Google, IBM and KPMG. My role in the Software Engineering department involved developing, testing and maintaining the SCPQ estimation product, with a particular focus on implementing the innovative Guided Scoping feature. This functionality offers an intuitive interface that translates natural language into structured queries and automated workflows, significantly improving user efficiency in building and deploying optimized projects. Moreover, my role entailed a variety of infrastructure related responsibilities which introduced me to a myriad of languages including but not limited to Python, Groovy and Ruby. During my time at Certinia I acquired a solid understanding of the agile and fintech background while becoming well versed in enterprise software development including query optimization, security frameworks, and comprehensive unit/integration testing.",
       "website": "https://certinia.com/uk/",
       "name": "Certinia ( formerly FinancialForce )",
       "location": "Harrogate - UK",
