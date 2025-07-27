@@ -78,7 +78,7 @@
   ],
   "work": [
     {
-      "summary": "Financial Technology firm specializing in tailored ERP software solutions for enterprise platforms including Google, IBM and KPMG. My role in the Software Engineering department involved developing, testing and maintaining the SCPQ estimation product, with a particular focus on implementing the innovative Guided Scoping feature. This functionality offers an intuitive interface that translates natural language into structured queries and automated workflows, significantly improving user efficiency in building and deploying optimized projects. Moreover, my role entailed a variety of infrastructure related responsibilities which introduced me to a myriad of languages including but not limited to Python, Groovy and Ruby. During my time at Certinia I acquired a solid understanding of the agile and fintech background while becoming well versed in enterprise software development including query optimization, security frameworks, and comprehensive unit/integration testing.",
+      "summary": "Financial Technology firm offering bespoke ERP software solutions for business platforms like Google, IBM and KPMG. My role in the Software Engineering department was developing, testing and maintaining the SCPQ estimation product, with a particular focus on rolling out the ground-breaking Guided Scoping feature. This capability offers the user a natural interface that translates natural language to formal queries and automated procedures, making the users more effective at designing and implementing the optimized projects. Furthermore, my work encompassed a variety of infrastructure related tasks that exposed me to a wide range of languages like but not limited to Python, Groovy and Ruby. During my time at Certinia I acquired a solid understanding of the agile and fintech background while becoming well versed in enterprise software development including query optimization, security frameworks, and comprehensive unit/integration testing.",
       "website": "https://certinia.com/uk/",
       "name": "Certinia ( formerly FinancialForce )",
       "location": "Harrogate - UK",
@@ -87,7 +87,7 @@
       "pinned": true,
       "highlights": [
         "Java",
-        "SOQL",
+        "SQL",
         "JavaScript / TypeScript / Jest",
         "Groovy / Ruby ",
         "Python",
