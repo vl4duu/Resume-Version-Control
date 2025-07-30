@@ -45,12 +45,12 @@
   "skills": [
     {
       "keywords": [
-        "HTML / CSS",
         "Javascript",
         "TypeScript",
-        "React",
+        "React / Next.js",
         "Vue",
         "Three.js",
+        "HTML / CSS",
         "Jest"
       ],
       "name": "Frontend"
@@ -58,7 +58,7 @@
     {
       "keywords": [
         "Python",
-        "numpy / tensorflow/ pytorch / scikit",
+        "numpy / tensorflow/ pytorch / scikit / fastAPI",
         "Java",
         "Groovy",
         "npm",
@@ -87,11 +87,11 @@
       "highlights": [
         "JavaScript / TypeScript / Jest",
         "Python",
-        "Java",
-        "SQL",
-        "Groovy / Ruby ",
-        "HTML / CSS (Tailwind)",
-        "Agile"
+        "Groovy",
+        "Next.js",
+        "Node.js",
+        "Ruby",
+        "SQL"
       ]
     },
     {
@@ -106,7 +106,8 @@
         "Java",
         "HTML / CSS",
         "JavaScript / JSP",
-        "Git"
+        "Git",
+        "Agile"
       ]
     }
   ],
