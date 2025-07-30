@@ -1,10 +1,12 @@
 {
   "name": "vl4duu",
   "version": "1.0.0",
-  "description": "This is the resume of Thomas Davis. God of web development.",
+  "description": "This is the resume of Vlad Mutilica.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export:html": "resume export resume.html -t elegant",
+    "export:pdf": "resume export resume.pdf -t elegant"
   },
   "repository": {
     "type": "git",
@@ -13,10 +15,13 @@
   "keywords": [
     "resume"
   ],
-  "author": "Thomas Davis",
+  "author": "Vlad Mutilica",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vl4duu/resume/issues"
   },
-  "homepage": "https://github.com/vl4duu/resume#readme"
+  "homepage": "https://github.com/vl4duu/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1"
+  }
 }
