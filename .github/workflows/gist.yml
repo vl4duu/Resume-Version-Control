@@ -15,4 +15,4 @@ jobs:
       with:
         token: ${{ secrets.TOKEN }}
         gist_id: 6e98fc8f87411da2649409d89a54473b
-        file_path: resume-python.json
+        file_path: resume.json
